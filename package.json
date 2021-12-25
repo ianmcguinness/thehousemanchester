@@ -7,7 +7,7 @@
   },
   "devDependencies": {},
   "scripts": {
-    "build": "parcel build src/index.html"
+    "build": "npx -p parcel parcel build src/index.html"
   },
   "repository": {
     "type": "git",
